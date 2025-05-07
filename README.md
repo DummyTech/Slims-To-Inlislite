@@ -20,5 +20,6 @@ Here are some known limitations and potential areas for improvement:
 
 At the end of the day, it all depends on your specific needs.
 
-Thank you for using our software! 🎉🎉🥳🥳
-DummyTech >u<
+---
+###Thank you for using our software! 🎉🎉🥳🥳
+###DummyTech >u<
