@@ -5,7 +5,7 @@ Due to a formatting issue in the script, you **WILL HAVE TO RESAVE THE RESULTS**
 - Exported files from SLiMS/Senayan must be placed in the same directory as the script.
 - Loading data into Inlislite may take some time, but it will work.
 
-### Why choose this method instead of swapping columns manually in Excel?
+## Why choose this method instead of swapping columns manually in Excel?
 ### ✅ Advantages
 The advantages of using this script instead of manually rearranging data columns in spreadsheet software are:
 - Once the column order is set, there's no need to redo it in the future.
