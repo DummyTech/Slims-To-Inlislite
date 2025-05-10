@@ -9,6 +9,7 @@ Due to a formatting issue in the script, you **WILL HAVE TO RESAVE THE RESULTS**
 # Why choose this method instead of swapping columns manually in Excel?
 ### ✅ Advantages
 The advantages of using this script instead of manually rearranging data columns in spreadsheet software are:
+- This software operates locally and modify the export file, not the database php like other method.
 - Once the column order is set, there's no need to redo it in the future.
 - Column rules can be customized in the code to fit your needs, including support for complex conditions or formulas written in python.
 - Automatically formats the output to match the Inlislite import format, which is required for successful data import.
